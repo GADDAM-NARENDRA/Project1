@@ -1,2 +1,2 @@
-# conan-hello
-Packaging the hello library
+#Conan-Calc
+Packaging the calc library
